@@ -108,7 +108,7 @@ def stock_board_concept_name_em() -> pd.DataFrame:
         "pz": "100",
         "po": "1",
         "np": "1",
-        "ut": "bd1d9ddb04089700cf9c27f6f7426281",
+        "ut": "7eea3edcaed734bea9cbfc24409ed989",
         "fltt": "2",
         "invt": "2",
         "fid": "f12",
